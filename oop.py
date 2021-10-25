@@ -29,3 +29,5 @@ Kamila.abs()
 
 Dino = NevedomayaIgrushka("Дино", 0, "нету")
 Dino.song()
+
+print("изменение")
